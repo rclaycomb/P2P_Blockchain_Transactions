@@ -1,1 +1,1 @@
-# P2P_Blockchain_Transactions
+# VOTING DISTRIBUTED APP USING SOLIDITY
